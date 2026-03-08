@@ -23,9 +23,9 @@ Tech: Flutter, Geolocation, Map APIs
 Find it here → [Miklat Map](https://miklatmap.com)
 
 ## Retro Runner
-A 2D Runner where the player can phase out to avoid obstacles and in to collect coins.
+A 2D Runner where the player can phase in and out while everything gets faster. 
 
-Tech: Unity
+Tech: Unity, C#
 
 Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
 
