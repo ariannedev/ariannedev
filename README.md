@@ -29,4 +29,4 @@ Tech: Unity
 
 Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
 
-Play the game here →
+Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)
