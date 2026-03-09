@@ -16,7 +16,12 @@ Tech: Flutter, Geolocation, Map APIs
 Find it here → [Miklat Map](https://miklatmap.com)
 
 </td>
-<td width="50%">
+<td width="25%">
+
+<img src="images/single-shelter-ar.PNG" width="300">
+
+</td>
+<td width="25%">
 
 <img src="images/cluster-he.PNG" width="300">
 
