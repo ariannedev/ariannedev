@@ -1,17 +1,6 @@
-Hi, I'm Arianne 👋
+Hi, I'm Arianne,
 
-Unity Developer | Game Systems | Gameplay Programming
-
-Developer with 10+ years of software experience currently focused on Unity game development.
-
-🎮 I build:
-• 2D & 3D Unity games
-• Gameplay systems
-• Procedural generation
-• Game architecture
-
-🧠 Interests
-RPG systems, retro games, casual games, procedural generation, AI-assisted development.
+Developer with 10+ years of software and web experience currently focused on Game development.
 
 🚀 Featured Projects
 
