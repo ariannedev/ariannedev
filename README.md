@@ -1,6 +1,6 @@
 Hi, I'm Arianne,
 
-Developer with 10+ years of software and web experience currently focused on Game development.
+I'm a developer from the UK with 10+ years of software and web experience currently focused on Game development.
 
 🚀 Featured Projects
 
@@ -9,7 +9,11 @@ Developer with 10+ years of software and web experience currently focused on Gam
 <td width="50%">
 
 ## Bomb Shelter Finder App
-Mobile app that helps users locate nearby bomb shelters during emergencies. Repo is kept private for security reasons
+Mobile app that helps users locate nearby bomb shelters during emergencies. Runs off a custom map server. Features a user selected city map download and bundled SQLite shelter database so it works offline. Location services ensure that battery use is kept as effcient as possible. 
+
+The project was designed and built with security and efficiency in mind. 
+
+Repo is kept private for security reasons.
 
 Tech: Flutter, Geolocation, Map APIs
 
