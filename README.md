@@ -53,10 +53,10 @@ Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hilling
 </td>
 <td width="50%">
 
-<img src="images/pr-start-screen.PNG" width="300">
+<img src="images/pr-start-screen.PNG">
 
 
-<img src="images/pr-gameplay.PNG" width="300">
+<img src="images/pr-gameplay.PNG">
 
 </td>
 </tr>
