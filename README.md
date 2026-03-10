@@ -33,7 +33,9 @@ Find it here → [Miklat Map](https://miklatmap.com)
 </tr>
 </table>
 
-
+<table>
+<tr>
+<td width="50%">
 
 ## Retro Runner
 A 2D Runner where the player can phase in and out while everything gets faster. 
@@ -41,5 +43,16 @@ A 2D Runner where the player can phase in and out while everything gets faster.
 Tech: Unity, C#
 
 Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
+</td>
+<td width="50%">
+
+<img src="images/pr-start-screen.PNG" width="300">
+
+
+<img src="images/pr-gameplay.PNG" width="300">
+
+</td>
+</tr>
+</table>
 
 Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)
