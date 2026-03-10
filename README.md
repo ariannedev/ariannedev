@@ -40,6 +40,13 @@ Find it here → [Miklat Map](https://miklatmap.com)
 ## Retro Runner
 A 2D Runner where the player can phase in and out while everything gets faster. 
 
+- Procedurally generated scrolling terrain with layered sine wave hills
+- Character select screen with animated previews
+- Game over cinematic, your character topples over and zooms to the results screen
+- Parallax star background, scanline overlay, camera shake on hit
+- Music and SFX volume controls with persistent settings
+- Streak counter with combo tracking
+
 Tech: Unity, C#
 
 Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
