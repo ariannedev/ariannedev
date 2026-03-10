@@ -50,6 +50,7 @@ A 2D Runner where the player can phase in and out while everything gets faster.
 Tech: Unity, C#
 
 Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
+Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)
 </td>
 <td width="50%">
 
@@ -62,4 +63,4 @@ Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hilling
 </tr>
 </table>
 
-Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)
+
