@@ -37,23 +37,28 @@ Find it here → [Miklat Map](https://miklatmap.com)
 <td width="50%">
 
 ## Crown Duel
-A twist on the card game spit
+A competitive twist on the classic Spit card game. 
 
-- Character select screen with animated previews
-- Game over cinematic
-- Music and SFX volume controls with persistent settings
-- Win/Lose/Games player tracking
+Choose your faction and battle for control of the shared card piles by place cards 1 higher or 1 lower than the current value. Take over the most piles, or instantly win by capturing them all. 
+
+Wild cards can be played on any pile at any time. 
+
+Designed as a quick, replayable mobile game. Short rounds, strong feedback, clean UI, special cards and fun animations. 
+
+- Faction selection screen with animated character previews
+- Win by majority control or total domination
+- Wild cards that can be played on any pile
+- Game over cinematics with feedback driven transactions
+- Persistent settings (SFX/music/faction selection)
+- Player tracking (wins/losses/streaks/sessions)
 
 Tech: Unity, C#
-
-<!--Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)-->
-<!--Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)-->
+Coming soon to Apple and Android
 </td>
 <td width="50%">
-
-<img src="images/shaman-attack.gif">
-<img src="images/card-highlight.gif">
 <img src="images/end-screen.gif">
+<img src="images/card-highlight.gif">
+<img src="images/shaman-attack.gif">
 </td>
 </tr>
 </table>
