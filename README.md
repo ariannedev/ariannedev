@@ -36,6 +36,31 @@ Find it here → [Miklat Map](https://miklatmap.com)
 <tr>
 <td width="50%">
 
+## Crown Duel
+A twist on the card game spit
+
+- Character select screen with animated previews
+- Game over cinematic
+- Music and SFX volume controls with persistent settings
+- Win/Lose/Games player tracking
+
+Tech: Unity, C#
+
+<!--Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)-->
+<!--Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)-->
+</td>
+<td width="50%">
+
+<img src="images/shaman-attack.gif">
+<img src="images/card-highlight.gif">
+<img src="images/end-screen.gif">
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="50%">
+
 ## Retro Runner
 A 2D Runner where the player can phase in and out while everything gets faster. 
 
