@@ -31,9 +31,6 @@ Find it here → [Miklat Map](https://miklatmap.com)
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%">
 
