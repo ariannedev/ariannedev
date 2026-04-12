@@ -1,8 +1,8 @@
 Hi, I'm Arianne,
 
-I'm a developer from the UK with 10+ years of software and web experience currently focused on Game development.
+I'm a developer from the UK  with 10+ years of software and web experience currently focused on Game development.
 
-🚀 Featured Projects
+Featured Projects
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ A 2D Runner where the player can phase in and out while everything gets faster.
 
 Tech: Unity, C#
 
-Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)
+<!--Find the code here → [CodeBase](https://github.com/ariannedev/hills-of-hillington)-->
 Play the game here → [Itch.io](https://ariannedev.itch.io/phase-runner)
 </td>
 <td width="50%">
