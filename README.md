@@ -1,6 +1,6 @@
 Hi, I'm Arianne,
 
-I'm a developer from the UK  with 10+ years of software and web experience currently focused on Game development.
+I'm a developer 10+ years of software and web experience currently focused on Game development.
 
 Featured Projects
 
@@ -53,6 +53,8 @@ Designed as a quick, replayable mobile game. Short rounds, strong feedback, clea
 - Player tracking (wins/losses/streaks/sessions)
 
 Tech: Unity, C#
+
+Play the game here → [Itch.io](https://ariannedev.itch.io/crown-duel)
 Coming soon to Apple and Android
 </td>
 <td width="50%">
